@@ -1,0 +1,6 @@
+Introduction to xunit
+ci/cd pipelines with jenkins , githubactions, devops,docker, kubernetes
+hand on with SonarQube
+Case Study
+    Library application need to be referenced in xunit application
+    xunit application need to be referenced in API application
