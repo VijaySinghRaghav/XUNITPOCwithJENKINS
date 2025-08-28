@@ -5,7 +5,7 @@ USER app
 FROM --platform=$BUILDPLATFORM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 ARG configuration=Release
 WORKDIR /src
-COPY ["./ProductTests/ProductTests.csproj", "ProductTests/"]
+COPY ["ProductTests.csproj", "ProductTests/"]
 RUN dotnet restore "ProductTests/ProductTests.csproj"
 COPY . .
 WORKDIR "/src/ProductTests"
