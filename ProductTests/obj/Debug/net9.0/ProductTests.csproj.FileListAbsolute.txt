@@ -110,3 +110,4 @@ D:\dotnet\dotnetcorepract\XunitPOC\ProductTests\bin\Debug\net9.0\product.dll
 D:\dotnet\dotnetcorepract\XunitPOC\ProductTests\bin\Debug\net9.0\productApi.dll
 D:\dotnet\dotnetcorepract\XunitPOC\ProductTests\bin\Debug\net9.0\productApi.pdb
 D:\dotnet\dotnetcorepract\XunitPOC\ProductTests\bin\Debug\net9.0\product.pdb
+D:\dotnet\dotnetcorepract\XunitPOC\ProductTests\obj\Debug\net9.0\ProductTests.sourcelink.json

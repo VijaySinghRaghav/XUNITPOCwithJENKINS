@@ -32,3 +32,4 @@ D:\dotnet\dotnetcorepract\XunitPOC\productAPI\obj\Debug\net9.0\productApi.genrun
 D:\dotnet\dotnetcorepract\XunitPOC\productAPI\obj\Debug\net9.0\ref\productApi.dll
 D:\dotnet\dotnetcorepract\XunitPOC\productAPI\bin\Debug\net9.0\product.dll
 D:\dotnet\dotnetcorepract\XunitPOC\productAPI\bin\Debug\net9.0\product.pdb
+D:\dotnet\dotnetcorepract\XunitPOC\productAPI\obj\Debug\net9.0\productApi.sourcelink.json

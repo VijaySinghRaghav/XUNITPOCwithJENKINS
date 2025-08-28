@@ -9,3 +9,4 @@ D:\dotnet\dotnetcorepract\XunitPOC\product\obj\Debug\net9.0\product.dll
 D:\dotnet\dotnetcorepract\XunitPOC\product\obj\Debug\net9.0\refint\product.dll
 D:\dotnet\dotnetcorepract\XunitPOC\product\obj\Debug\net9.0\product.pdb
 D:\dotnet\dotnetcorepract\XunitPOC\product\obj\Debug\net9.0\ref\product.dll
+D:\dotnet\dotnetcorepract\XunitPOC\product\obj\Debug\net9.0\product.sourcelink.json
